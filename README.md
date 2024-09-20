@@ -30,5 +30,5 @@ I am a **graduate student in Business Analytics** at the University of Illinois 
 - Inferential and Predictive Statistics
 
 ### 🌐 Let's Connect
-- **Email**: (sanjananannuri@gmail.com)[sanjananannuri@gmail.com]
+- **Email**: [sanjananannuri@gmail.com](sanjananannuri@gmail.com)
 - **LinkedIn**: [Sanjana Nannuri](https://www.linkedin.com/in/sanjana-nannuri/)
